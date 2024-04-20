@@ -1,2 +1,4 @@
 # MyNotes
-Images of diagrams and notes
+just images of my diagrams and notes...
+
+some could be useful, bad or total bullshit
